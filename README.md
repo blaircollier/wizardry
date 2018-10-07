@@ -1,1 +1,2 @@
 # wizardry
+a game
